@@ -6,6 +6,6 @@ class Program
 {
   public static void Main()
   {
-
+    Write("hej");
   }
 }
